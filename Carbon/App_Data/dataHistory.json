@@ -1,0 +1,44 @@
+[
+  {
+    "entryDate": "2024-03-09T23:36:08.544156+03:00",
+    "transport": {
+      "vehicleType": "truck",
+      "distanceTravelled": 20.0,
+      "fuelType": "diesel",
+      "fuelEfficiency": 11.0
+    },
+    "electricity": { "energySource": "grid", "electricityUsage": 500000.0 },
+    "carbonFootprint": {
+      "transportEmissions": 977.13,
+      "electricityEmissions": 150000.0
+    }
+  },
+  {
+    "entryDate": "2024-03-09T23:36:39.4003149+03:00",
+    "transport": {
+      "vehicleType": "bus",
+      "distanceTravelled": 14.0,
+      "fuelType": "petrol",
+      "fuelEfficiency": 13.0
+    },
+    "electricity": { "energySource": "wind", "electricityUsage": 100000.0 },
+    "carbonFootprint": {
+      "transportEmissions": 436.25399999999991,
+      "electricityEmissions": 20000.0
+    }
+  },
+  {
+    "entryDate": "2024-03-09T23:50:10.2326562+03:00",
+    "transport": {
+      "vehicleType": "car",
+      "distanceTravelled": 10.0,
+      "fuelType": "gasoline",
+      "fuelEfficiency": 5.0
+    },
+    "electricity": { "energySource": "solar", "electricityUsage": 25000.0 },
+    "carbonFootprint": {
+      "transportEmissions": 141.0,
+      "electricityEmissions": 2500.0
+    }
+  }
+]
